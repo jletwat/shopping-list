@@ -4,3 +4,8 @@
 - chicken
 - potatoes
 - yogurt
+- flour
+- sugar
+- butter
+- frosting
+- vanilla
